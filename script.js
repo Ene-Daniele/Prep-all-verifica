@@ -45,4 +45,5 @@ function fractalFunction() {
   ctx.clearRect(0, 0, canvas.width, canvas.height)
   color = "#ff0000";
   domloaded();
+  
 }
