@@ -1,3 +1,8 @@
-function button1Function() {
-    document.getElementById("mytext").innerHTML = "Hello World!";
+function like() {
+    document.getElementById("iLike").innerHTML = "I like js!";
   }
+
+  
+function dislike() {
+  document.getElementById("iDont").innerHTML = "I dont";
+}
